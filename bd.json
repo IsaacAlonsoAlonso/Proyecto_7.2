@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": "e776",
+      "nombre": "queso",
+      "comprado": "si"
+    },
+    {
+      "id": "9b0d",
+      "nombre": "kas",
+      "comprado": "no"
+    },
+    {
+      "id": "1575",
+      "nombre": "queso",
+      "comprado": "no"
+    }
+  ]
+}
